@@ -1,7 +1,8 @@
-function App(){
-    return(
+import HEader from "./Components/HEADEER/header"
+function App() {
+    return (
         <>
-        
+            <HEADER></HEADER>
         </>
     )
 }
