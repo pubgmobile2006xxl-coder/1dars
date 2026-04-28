@@ -10,7 +10,3 @@ function App() {
 }
 
 export default App
-<div>
-    vfs rsscv
-    <h1></h1>
-</div>
