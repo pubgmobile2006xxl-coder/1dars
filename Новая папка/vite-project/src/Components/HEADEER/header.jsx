@@ -1,4 +1,4 @@
-import "./header.scss";
+import "./header.css.map";
 import React from 'react';
 function header() {
     return (
