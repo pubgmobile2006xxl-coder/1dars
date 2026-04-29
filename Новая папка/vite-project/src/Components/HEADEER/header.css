@@ -13,3 +13,7 @@
   padding: 0 10px;
   background: red;
 }
+.container ul {
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=header.css.map */
