@@ -1,11 +1,9 @@
-import "./App.scss";
-import HEADER from "./Components/HEADER/HEADER";
-
+import Header from "./Components/header/Header"
 
 function App() {
     return (
         <>
-            <HEADER></HEADER>
+            <Header></Header>
         </>
     )
 }

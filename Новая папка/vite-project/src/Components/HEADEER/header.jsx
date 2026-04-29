@@ -1,3 +1,5 @@
+import "./header.scss";
+import React from 'react';
 function header() {
     return (
         <>
@@ -15,3 +17,5 @@ function header() {
         </>
     )
 }
+
+export default HEADER;
